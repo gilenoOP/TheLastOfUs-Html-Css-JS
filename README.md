@@ -1,6 +1,6 @@
-#Site criado para praticar
+# Site criado para praticar
 
-#Tecnologias usadas
+# Tecnologias usadas
 - HTML
 - CSS
 - JavaScript
